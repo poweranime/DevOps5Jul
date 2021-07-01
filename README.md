@@ -1,5 +1,6 @@
-# DevOps5Jul
+# DevOps Presentation for 5 Jul - mid_backend package
+## Using Dixant's respository of codes and packaging them and publish it to npm registry
+## I am very chuffed to get it to work!
 
-Using Dixant's mid-backend repository to test build and publish
-
-So far can build but not successful in publishing
+### A workflow is triggered on change on the master branch.
+### Once I commit a change, it will trigger a workflow to build and then publish
