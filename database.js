@@ -1,9 +1,9 @@
 const mysql_pkg = require("mysql");
 
 var properties = {
-    host: "34.126.172.116",
+    host: "xxx",
     user: "root",
-    password: "fintechsglab",
+    password: "xxx",
     port: 3306,
     database: "market",
 }
