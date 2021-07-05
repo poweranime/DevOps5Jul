@@ -13,3 +13,5 @@
 - on:  push:    paths:     'package.json' 
 ### A workflow is triggered on change to the file 'package.json'
 ### Once I commit a change, it will trigger a workflow to build and then publish
+
+## Go to https://www.npmjs.com/package/devops_5jul for the published package
